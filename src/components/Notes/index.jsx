@@ -10,7 +10,9 @@ export const Notes = () =>{
                 x
               </div>
             </div>
-            <textarea>Lorem ipsum dolor sit amet consectetur necessitatibus cumque officia magnam. Pariatur provident nemo non enim ea nihil ab rem reprehenderit quae, rerum animi maxime libero?</textarea>
+            <textarea>Lorem ipsum dolor sit amet consectetur 
+                necessitatibus cumque officia magnam. Pariatur provident 
+                nemo non enim ea nihil ab rem reprehenderit quae, rerum animi maxime libero?</textarea>
               <span>!</span>
           </li>
 
